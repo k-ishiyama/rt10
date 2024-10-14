@@ -1,1 +1,1 @@
-# rt10
+A renderer for ray tracing camp 10
